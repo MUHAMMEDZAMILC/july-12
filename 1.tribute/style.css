@@ -1,0 +1,20 @@
+body {
+    color: rgb(208, 212, 214);         
+    background-image: url(hah.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;/*parallex effect   */     
+    border-style: solid;           border-width:1px 1px;
+    border-color:white;
+    text-align: center;
+}
+input {
+    border: 2px solid red;
+  border-radius: 4px;
+}
+h2.h22{
+            
+    color: aliceblue;
+}
+p.d{
+     text-align: center;   }
